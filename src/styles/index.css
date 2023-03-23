@@ -10,10 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
-<<<<<<< Updated upstream
-body{
-    background-color: aqua;
-=======
 
 body{
     margin-top: 100px;
@@ -34,5 +30,4 @@ h1{
 
 input{
     border: none; width: 100%;
->>>>>>> Stashed changes
 }
