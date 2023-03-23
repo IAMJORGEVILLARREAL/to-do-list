@@ -10,6 +10,29 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+<<<<<<< Updated upstream
 body{
     background-color: aqua;
+=======
+
+body{
+    margin-top: 100px;
+}
+
+ul{
+    padding: 0;
+    margin-bottom: 0;
+}
+
+ul li{
+    border: 1px solid gray;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    border: none; width: 100%;
+>>>>>>> Stashed changes
 }
